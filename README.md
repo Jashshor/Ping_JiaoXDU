@@ -4,7 +4,7 @@
 
 食用方法：
 
-- 安装本脚本，打开[西电评教页面](http://ehall.xidian.edu.cn/jwapp/sys/wspjyyapp/*default/index.do?)；
+- [通过GreazyFork安装本脚本](https://greasyfork.org/zh-CN/scripts/426427-%E8%87%AA%E5%8A%A8%E8%AF%84%E6%95%99-%E8%A5%BF%E7%94%B5%E4%B8%93%E7%89%88)或自行下载/复制代码导入/粘贴，打开[西电评教页面](http://ehall.xidian.edu.cn/jwapp/sys/wspjyyapp/*default/index.do?)；
 - 打开问卷；
 - 等待几秒钟（因为有问卷加载时间，可能有一定延迟请耐心等待）
 
