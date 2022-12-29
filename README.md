@@ -4,12 +4,10 @@
 
 食用方法：
 
-- [通过GreazyFork安装本脚本](https://greasyfork.org/zh-CN/scripts/426427-%E8%87%AA%E5%8A%A8%E8%AF%84%E6%95%99-%E8%A5%BF%E7%94%B5%E4%B8%93%E7%89%88)或自行下载/复制代码导入/粘贴，打开[西电评教页面](http://ehall.xidian.edu.cn/jwapp/sys/wspjyyapp/*default/index.do?)；
-- 打开问卷；
-- 等待几秒钟（因为有问卷加载时间，可能有一定延迟请耐心等待）
+- [通过GreazyFork安装本脚本](https://greasyfork.org/zh-CN/scripts/426427-%E8%87%AA%E5%8A%A8%E8%AF%84%E6%95%99-%E8%A5%BF%E7%94%B5%E4%B8%93%E7%89%88)，打开[西电一站式](http://ehall.xidian.edu.cn/)，打开本科生网上评教应用APP；
+- ~~打开问卷；~~
+- ~~等待几秒钟（因为有问卷加载时间，可能有一定延迟请耐心等待）~~
+- 直接打开问卷，等待加载问卷后，上下滑动一下滚轮，会有一个小按钮出现在左下角（比较隐蔽），点击一下就可以（只适配了部分选择和填空样式，多数问卷应该都可以）
+- 点击提交
 
-欢迎各路大佬提问探讨，如果脚本有不合适的地方用户可以进行修改然后使用。
-
-**本脚本不可私自用于商业用途，本脚本完全免费，不可以二改或出售等方式盈利。**
-
-个人小站：[Avalon](https://jashshor.fun/)；		Github：[JashShor](https://github.com/Jashshor)；(诸多资源更新ing)
+[![Mouse-Inc-173532.png](https://i.postimg.cc/c18jyn9v/Mouse-Inc-173532.png)](https://postimg.cc/grm43nPp)
